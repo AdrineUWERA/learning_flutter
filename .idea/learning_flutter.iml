@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/ninja_card/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ninja_card/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ninja_card/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/quote_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quote_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quote_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/todo-app-mobile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/todo-app-mobile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/todo-app-mobile/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/message_chat/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/message_chat/build" />
+      <excludeFolder url="file://$MODULE_DIR$/message_chat/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/animation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_and_routing/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_and_routing/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_and_routing/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
